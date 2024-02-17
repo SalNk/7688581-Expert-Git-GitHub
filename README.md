@@ -38,7 +38,9 @@ A définir : expliquer comment executer les tests
 Voici les étapes à suivre pour déployer en production :
 
 ```
-A définir
+-Rendez-vous sur le repo en ligne
+-Créer un fork du projet
+-Puis faites un pull de votre fork
 ```
 
 ## Technologies :
